@@ -1,0 +1,85 @@
+.slidedeck .title > h1 {
+    top: 300px;
+    font-size : 96pt;
+}
+
+
+#title {
+    > h1 {
+        font-size: 170pt;
+        top: 0;
+        width: 50%;
+        position: absolute;
+        height: 100%;
+        margin: 0 40px;
+    }
+
+    .block-image > img {
+        transform: scale(1.2) translate(100px, 0px);
+    }
+}
+
+#why-do-we-teach {
+    
+    h2 {
+        top: 0;
+        position: absolute;
+        width: 40%;
+        font-size: 180pt;
+    }
+
+    .block-image > img {
+        transform: scale(1.3) translateX(200px);
+    }
+}
+
+#why-do-students-attend {
+    h2 {
+        font-size: 160pt;
+        width: 45%;
+        float: right;
+    }
+
+    .block-image > img {
+        transform: scale(1.3) translatex(-200px);      
+    }
+}
+
+
+#set-realistic-goals {
+    > h2 {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 1200px;
+        font-size: 140pt;
+        text-align: center;
+    }
+}
+
+#simplify {
+    > h2 {
+        font-size: 150pt;
+        right: 0;
+        position: absolute;
+        bottom: 350px;
+    }
+
+    .block-image > img {
+        width: unset;
+    }
+
+}
+
+#make-it-social {
+    > h2 {
+        font-size: 180pt;
+        width: 40%;
+        /* text-align: center; */
+    }
+
+    > .block-image > img {
+        object-fit: contain;
+        transform: scale(2.7) translateY(200px);
+    }
+}

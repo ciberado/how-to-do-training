@@ -1,0 +1,12 @@
+{
+    "content": "README.md",
+    "styles": ["css/alyssum.css", "css/local.css"],
+    "processors": [
+        "hiddenSlidesProcessor",
+        "footnotesProcessor",
+        "chartProcessor",
+        "iframeProcessor"
+    ],
+    "script": "",
+    "liveReload" : true
+}
