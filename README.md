@@ -117,6 +117,153 @@ And, among everything else, keep your **explanations short**.
 
 :::
 
+[](#become-a-storyteller,.coverbg)
+
+## Become a storyteller
+
+![Exploration And Mountain Climbing, by Karolina, https://www.pexels.com/photo/exploration-and-mountain-climbing-3669288/](https://images.pexels.com/photos/3669288/pexels-photo-3669288.jpeg)
+
+::: Notes
+
+We start learning about our reality through **stories told by our parents**, so it is easy to understand why this **symbolic** mechanism is so **deeply integrated** in the way we understand new concepts. A good story will **provide context**, explaining why the current topic **matters to a particular person** or group. That is what we call **The Mission**. And it will also set a path for the **Hero's journey** (https://en.wikipedia.org/wiki/Hero's_journey) for saving the day.
+
+In other words, **don't focus on the tools** as a goal by themselves. Instead, propose to use them for **solving a problem**. That will provide meaning to the effort, changing the **motivation of the students** towards learning.
+
+And, please, use **emotions**. Passion and emotions are the **main drivers** of many learners.
+
+**Joseph Campbell** wrote [a whole book](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces) about it. But you don't need to read it, as it is surprisingly boring ;)
+
+:::
+
+[](#fear,.coverbg)
+
+## Fear
+
+![Selective Photo of Gray Shark, by George Desipris, https://www.pexels.com/photo/selective-photo-of-gray-shark-726478/](https://images.pexels.com/photos/726478/pexels-photo-726478.jpeg)
+
+::: Notes
+
+This is the most basic question a brain will make: **can it eat me?**
+
+Fear is an useful emotion: it help us to **prevent unpleasant results**. For example, there is no need to be a good communicator while speaking at a **military briefing**: all attendants understand that it is their **life what it is as stake**.
+
+There are many spaces in which it is healthy to introduce a sense of fear: **cybersecurity**, **cost management**, etc. Use it wisely for enhancing engaging as it **can loose effectiveness if abused**.
+
+:::
+
+[](#gluttony,.coverbg)
+
+## Gluttony
+
+![Four Macaroons, by Armina Raudys, https://www.pexels.com/photo/four-macaroons-808941/](https://images.pexels.com/photos/808941/pexels-photo-808941.jpeg)
+
+::: Notes
+
+The second question your brain will make is, usually **can I eat it?**.
+
+Well, maybe not literally. But explaining how achieving a goal may help **progressing at work**, increase the student **income** or reduce the amount of time required to do a task (and thus, increasing his/her **quality of life**) may be considered in this category.
+
+For example, while the demand for classic system administrators is declining, **cloud engineers are still highly valued** in the job market.
+
+By the way, never display food photos around lunchtime ;).
+
+:::
+
+[](#mating,.coverbg)
+
+## Mating
+
+![Chris Hemsworth at San Diego 2019 ComicCon, by Gage Skidmore, https://www.flickr.com/photos/gageskidmore/48470865846/in/photolist-2gRcRHy-2gRcS2V-2gRcT13-XdFMen-X1QBVT-pxhzTu-pxfysV-VWZLy1-XdYEdp-ceuUHb-2h5QjTw-QYqGjw-XdFz4F-psKFKs-pbhdEn-psMkma-ExamCw-a7GMwV-bFMVG8-BL57xn-qe4ydS-CRE7e8-a7GMJc-a7KF5S-251Vc69-251Qr5S-2678mck-2iycikQ-dtEiKC-VjjdnE-XnCyRf-SRrdhE-pQ84iW-bPYfxk-ehgMk6-cgZYFj-cgZZ3b-BWGP2B-bB4AWm-bPydxg-bXLsZW-bb9sFt-paQKQA-seEqGV-qJQkZV-ehgMnF-ehgMmP-Z49WMC-Ws6skJ-dFBsx7](images/chris_hemsworth.jpg)
+
+::: Notes
+
+Ok, not about food chains anymore. But, **may we have sex?**. In a broader sense, is it going to be **exciting**? We love technology, we enjoy being able to push if further to a different level. **Learning is sexy**!
+
+Also, all presentations should have at least one picture of **Chris Hemsworth**.
+
+:::
+
+
+[](#use-your-voice,.coverbg)
+
+## Use your voice
+
+![
+Man recording podcast side view, by Freepik, https://www.freepik.com/free-photo/man-recording-podcast-side-view_27645332.htm#&position=21&from_view=collections&uuid=4ba528a2-dbdc-4c35-8259-9437d7ee90c7](images/man-recording-podcast-side-view-1.jpg)
+
+
+::: Notes
+
+Ok, maybe we are not Chris Hemsworth. But remember: the freaking **Miles Davis** himself said "I think the greatest sound in the world is the human voice.", and you are lucky enough to have one. So put it in good use, as any medieval bard knew using the **proper tone and modulation** is enough to boost imagination and **engage** with the audience.
+
+It is the most basic **mechanism we have to communicate** with each other, an incredibly versatile tool for **connecting**. At the same time, there is nothing more **depressing** that attending to a long talk given by someone who doesn't know how to **express emotions** through his or her voice.
+
+And, please, use a **good microphone**.
+
+:::
+
+[](#visual-contact,.coverbg)
+
+![]()
+
+::: Notes
+
+**********************************************
+visual contact
+lighting
+:::
+
+[](#make-great-slides,.coverbg)
+
+## Make great slides
+
+![](https://m.media-amazon.com/images/I/813snnhmkKL._AC_UF894,1000_QL80_.jpg)
+
+::: Notes
+
+If you don't have time for anything else, read **Garr Reynolds** blog [Presentation Zen](https://www.presentationzen.com/), or event better, find his book in your local library.
+
+And remember, we are **visual creatures**. Don't abuse text: your slides are **not documentation**, write a freaking document to provide additional content or simply use the **speakers notes to go deeper**. But before putting so many details in the notes, be sure you list the **keywords that will trigger the different sections** of your explanation at the top of them
+
+The **worst sin** you can do in the classroom is to **limit yourself to reading** the slides. Why are you there, if all the content is already displayed behind you? Also, we read faster than you speak: **nobody is going to care** at all about what you are saying if they are busy reading your slide.
+
+Good slides will **guide YOU**, and **complement** your explanation. They will provide **ascetics** to your history, and will **anchor your students** again in the explanation if they **lost focus** for a moment.
+
+Try to make good use of the typography: a **good font face will add personality**, but will be easy to read and non distracting.
+
+And, again, **never read your freaking slides**.
+
+:::
+
+[](#use-a-whiteboard,.coverbg)
+
+## Draw on a whiteboard
+
+![Girl in Plaid Shirt Solving a Math Problem, by Karolina Grabowska, https://www.pexels.com/photo/girl-in-plaid-shirt-solving-a-math-problem-6256075](https://images.pexels.com/photos/6256075/pexels-photo-6256075.jpeg)
+
+::: Notes
+
+But, you know what? Maybe **you don't need slides**.
+
+Developing the **supporting visuals** at the same time that we are explaining a topic can be a very effective way of providing **increasing levels of detail**, reducing the [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) of the students. Also, it helps a lot for keeping their **focused** on the explanation, thanks to the **visual dynamic** nature of it.
+
+:::
+
+[](#dont-tell-show,.coverbg)
+
+## Don't tell, show.
+
+![Woman In Black Coat Standing Near Body Of Water, by Vlad, https://www.pexels.com/photo/woman-in-black-coat-standing-near-body-of-water-3894874/](https://images.pexels.com/photos/3894874/pexels-photo-3894874.jpeg)
+
+
+::: Notes
+
+Do **demos**. Lots of them. Each time you can show how to do something **instead of explaining** it, go for the demo. It can go wrong, for sure, but that's not a problem in the long term (see **[Bill Gates during Win98 presentation](https://www.youtube.com/watch?v=yeUyxjLhAxU)**). For extra engagement, make the **pupils follow your instructions** on their own environment. And encourage them to break things.
+
+If it is really important, **record the demo** as a plan B: I've seen presenters in conferences delivering a "live" demo with Windows 10 supposedly running in a Mac ;).
+
+:::
+
 [](#make-it-social,.coverbg)
 
 ## Make it social
@@ -134,20 +281,72 @@ Put people to work. **Active work**. And make it **fun**.
 :::
 
 
+[](#make-them-team-up,.blocks)
+
+## Make them team up
+
+* ![Man In Dress Shirt Sitting At The Table Using Laptop Computer, Zen Chung, https://www.pexels.com/photo/man-in-dress-shirt-sitting-at-the-table-using-laptop-computer-5749818/](https://images.pexels.com/photos/5749818/pexels-photo-5749818.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+* ![Man in Blue Denim Jacket Sitting by the Table, by Thirdman, https://www.pexels.com/photo/man-in-blue-denim-jacket-sitting-by-the-table-5053434/](https://images.pexels.com/photos/5053434/pexels-photo-5053434.jpeg)
+* ![Concentrated Latin American lady writing information in notepad near netbook, by Liza Summer, https://www.pexels.com/photo/concentrated-latin-american-lady-writing-information-in-notepad-near-netbook-6347908/](https://images.pexels.com/photos/6347908/pexels-photo-6347908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+* ![Woman In White T-shirt Using Macbook, by Anna Shvets, https://www.pexels.com/photo/woman-in-white-t-shirt-using-macbook-3986986/](https://images.pexels.com/photos/3986986/pexels-photo-3986986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+::: Notes
+
+Create **heterogeneous groups** that complement each other. Organize the labs and **practices around them**, in such a way that throughout the course a work dynamic is created that **makes them accountable** to each other and allows them to **help each other**.
+
+As a side effect, you'll have **less work**: instead of interacting with each individual, you'll be able to do so with only four, five, or six entities.
+
+In remote, tools like **[Gather Town](https://gather.town)** will make a difference as traditional conferencing software is not designed at all for **active learning**.
+:::
+
+[](#make-them-autonomous,.coverbg)
+
+## Make them autonomous
+
+![Construction Equipment and Tools Plastic Toys, by Polesie toys, https://www.pexels.com/photo/construction-equipment-and-tools-plastic-toys-4492351](https://images.pexels.com/photos/4492351/pexels-photo-4492351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+::: Notes
+
+Provide the groups with self service **lab environments** if possible. Give them automated ways of **testing** what they are learning. Provide them with instructions for completing tasks, making labs a way to better understand what's happening.
+
+**Cloud** resources are awesome for creating **ephemeral scenarios**. Local **VMs** are another great resource, although they are more intrusive as they required to be installed in the participants computers.
+
+:::
+
+[](#flipped-classroom,.coverbg)
+
+## Turn all upside down
+
+![A World Map Paper Cutting on a Chopping Board, by Monstera Production, https://www.pexels.com/photo/a-world-map-paper-cutting-on-a-chopping-board-7411946/](https://images.pexels.com/photos/7411946/pexels-photo-7411946.jpeg)
+
+::: Notes
+
+**[Flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom)** is a strategy that suggests providing **lectures in advance** to students, for instance, by recording previously discussed whiteboard sessions. Subsequently, **synchronous time is invested in activities**: discussions, problem-solving, etc. In essence, students complete traditional homework in class and attend master classes at home.
+
+One crucial aspect to note is that while video is commonly used in this model, it is entirely possible to provide **other formats** (such as quizzes, short texts, podcast listening, etc). The primary objective is to transform classroom time into a 100% active experience for the attendees by using it to discuss notes, create concept maps, solve problems, write texts, design solutions, or implement labs. At the end, their learning is evaluated by checking their progress or through a dedicated test.
+
+There are some [metastudies](https://www.sciencedirect.com/science/article/pii/S2095771817300993) and [cases](https://edition.cnn.com/2012/01/18/us/my-view-flipped-classrooms-give-every-student-a-chance-to-succeed/index.html) indicating that this can be an **effective way of improving student scores**, although it significantly depends on the instructor's attitude towards technology and content creation.
+
+Fortunately for us, we all know how to use a computer! More importantly, this approach may help us combat our worst enemy: the final session hour. By shifting part of the content to an asynchronous format, we can **reduce the duration of the live sessions** and assist students in maintaining focus throughout.
+
+Moreover, it's entirely feasible to reuse the videos as long as they remain relevant, which ultimately will **increase the productivity** of the instructor's work. Or simply provide a curated list of content if it is good enough to fulfill the purpose of the session.
+
+For a short introduction to this exciting option, check the [What is a flipped classroom](https://creately.com/blog/education/what-is-a-flipped-classroom/) post on Creately. 
+
+:::
+
 []()
 
-{{% slide id="golden-hammer" background-image="thor.jpg"%}}
+[]()
 
-<div class="message">
-<h2>Cuidado con enamorarte</h2>
-</div>
+##
 
-{{% note %}}
-* Powerpoint, keynote, Reveal, Slides son solo herramientas
-* De Chris Hemsworth puedes enamorarte cuando quieras
-{{% /note %}}
+![]()
 
-{{% /slide %}}
+::: Notes
+
+:::
+
 
 *******************************************************************************************
 
@@ -188,167 +387,9 @@ Esta fotografía es increíble, puedes pasar el tiempo que quieras mirándola. P
 {{% /slide %}}
 *******************************************************************************************
 
-{{% slide id="minimalism" 
-background-color="#fff" background-image="minimalist-clock.jpg"%}}
-
-<div class="message">
-<h2>Simplifica</h2>
-</div>
-
-{{% note %}}
-* [FreakishClock](http://mmminimal.com/freakishclock/)
-* Por Sabrina Fossi
-* Garr Reynolds lo relaciona con el zen
-* 6 palabras por slide (máximo)
-* Pregúntate ¿Y qué?
-{{% /note %}}
-
 {{% /slide %}}
 *******************************************************************************************
 
-{{% slide id="before-after-transformation" 
-background-image="garr-raynolds-before-after.jpg" %}}
-
-{{% /slide %}}
-
-*******************************************************************************************
-
-{{% slide id="diagrams" 
-background-image="diagram.jpg" %}}
-
-{{% note %}}
-* Es fresco
-* Muestra la imagen de la empresa
-* Diagrama vpc en vivo
-{{% /note %}}
-
-{{% /slide %}}
-
-*******************************************************************************************
-{{% slide id="make-demo-not-war" 
-background-image="windows-death-screen.jpg" %}}
-
-## Make demo not war
-
-![Windows demo fallida](windows-failed-demo.gif)
-
-{{% note %}}
-* Ten siempre un plan B
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="make-demo-not-war-whatever" 
-background-color="#fff" %}}
-
-![Whatever](shrug-face.png)
-
-{{% note %}}
-* No dejes una animación mientras explicas
-* Muchas veces necesitas un plan C
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% slide id="plan-b" background-image="in-case-of-emergency.jpg"%}}
-
-{{% note %}}
-* Un vídeo difícilmente fallará (pero una demo sí)
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="simplify-slides-activity" 
-background-image="empire-needs-you.jpg" %}}
-
-{{% note %}}
-Ejercicio: transformar un excel con medidas de rendimiento de 50 aplicaciones en una presentación aceptable. Solo dos aplicaciones concretas ofrecen problemas y en el caso de una de ellas el motivo es un problema de configuración de las métricas.
-{{% /note %}}
-
-{{% /slide %}}
-
-*******************************************************************************************
-{{% slide id="terminal-and-code" 
-background-color="#fff" %}}
-
-![Aprende salir de vi (parodia)](exiting-vim-book-parody.jpg)
-
-{{% note %}}
-* La terminal es muerte
-* Letra grande y alto contraste
-* Poco a poco y avisando
-* Solo zona superior
-* Si hay código, solo fragmentos relevantes
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="using-quotes" 
-background-image="background-stars.jpg" %}}
-
-<div class="message">
-  <div class="quote">
-    No esperes resultados diferentes si siempre haces lo mismo.
-  </div>
-  <div class="author">Albert Rivera</div>
-</div>
-
-{{% note %}}
-* Prestigio prestado
-* TAMPOCO es de Einstein
-* Dejarla en silencio como recurso dramático
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% slide id="before-the-talk" background-image="the-bank-job.jpg" %}}
-
-<h2>Antes de la charla</h2>
-
-{{% note %}}
-
-* Perfil asistente
-* Forma de la sala
-* Hora de la charla
-* Maleta adaptadores, router, etc
-* Comprueba conectividad
-* Dresscode
-
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% slide id="equipment" background-image="leather_camera_bag.jpg" %}}
-
-<div class="message">
-<h2>Equipo</h2>
-</div>
-
-{{% note %}}
-
-* Maleta adaptadores, router, etc
-* Dresscode
-* Monitor secundario
-
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="knowledge-transmission" 
-background-image="operator-transmits-knowledge.jpg" %}}
-
-<div class="message">
-<h2>Transmitir conocimiento</h2>
-</div>
-
-{{% note %}}
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
 
 {{% slide id="good-enough" background-image="fallout-thumbs-up.jpg" %}}
 

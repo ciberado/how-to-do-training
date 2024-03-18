@@ -30,7 +30,7 @@
       padding: 40px;
       margin: 40px;
       line-height: 0.9em;
-      background-color: rgba(255, 231, 32, 0.7);
+      background-color: rgba(255, 231, 32, 0.86);
       color: #d75050;
       position: relative;
       z-index: 10;
@@ -74,7 +74,7 @@
     align-items: center;
     text-align: center;
     height: 45%;
-    background: rgba(255, 231, 32, 0.7);
+    background: rgba(255, 231, 32, 0.86);
     margin: 0;
     bottom: 0;
     position: absolute;

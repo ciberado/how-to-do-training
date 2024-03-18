@@ -55,3 +55,110 @@
 #make-it-social > .block-image > img {
   object-fit: contain;
   transform: scale(2.7) translateY(200px); }
+
+#make-them-team-up > h2 {
+  position: absolute;
+  font-size: 130pt;
+  width: 800px;
+  left: 300px; }
+
+#make-them-team-up > ul {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  margin: 0; }
+  #make-them-team-up > ul li {
+    margin: 0; }
+    #make-them-team-up > ul li img {
+      max-height: unset; }
+  #make-them-team-up > ul li:nth-child(even) {
+    position: relative;
+    top: 370px; }
+
+#make-them-autonomous > h2 {
+  font-size: 150pt;
+  width: 70%;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  text-align: center; }
+
+#become-a-storyteller > h2 {
+  width: 55%;
+  font-size: 160pt;
+  position: absolute;
+  top: 430px; }
+
+#use-your-voice > h2 {
+  font-size: 150pt;
+  position: absolute;
+  width: 700px;
+  right: 0;
+  bottom: 0; }
+
+#use-a-whiteboard > h2 {
+  position: absolute;
+  font-size: 130pt;
+  right: 0;
+  width: 920px;
+  top: 100px; }
+
+#use-a-whiteboard > .block-image > img {
+  transform: scale(1.4) translate3d(-150px, 0, 0); }
+
+#dont-tell-show > h2 {
+  font-size: 150pt;
+  position: absolute;
+  width: 700px;
+  text-align: right; }
+
+#dont-tell-show > .block-image > img {
+  transform: scale(3) translate3d(0px, 300px, 0);
+  object-fit: contain; }
+
+#flipped-classroom > h2 {
+  position: absolute;
+  font-size: 120pt;
+  width: 35%;
+  /* margin: 20px; */
+  text-align: center; }
+
+#flipped-classroom > .block-image > img {
+  transform: scale(-1, -1); }
+
+#fear > h2 {
+  position: absolute;
+  font-size: 170pt;
+  right: 80px;
+  top: 100px; }
+
+#fear > .block-image > img {
+  transform: scale(1.4) translate3d(100px, 100px, 100px); }
+
+#gluttony > h2 {
+  position: absolute;
+  font-size: 160pt;
+  top: 500px; }
+
+#gluttony > .block-image > img {
+  transform: scale(1.3); }
+
+#mating > h2 {
+  position: absolute;
+  font-size: 150pt;
+  top: 180px; }
+
+#mating .block-image > img {
+  object-fit: contain;
+  transform: scale(2.5) translate3d(400px, 200px, 0px); }
+
+#make-great-slides > h2 {
+  position: absolute;
+  font-size: 140pt;
+  width: 30%;
+  left: 200px;
+  top: 100px; }
+
+#make-great-slides .block-image > img {
+  object-fit: contain;
+  transform: rotate(45deg) scale(1.5); }
