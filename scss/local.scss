@@ -236,3 +236,49 @@
         transform: rotate(45deg) scale(1.5);
     }
 }
+
+#body-language {
+    h2 {
+        position: absolute;
+        font-size: 120pt;
+        width: 30%;
+        right: 0;
+        text-align: right;
+    }    
+}
+
+#conclusions {
+    > h2 {
+        display : none;
+    }
+
+    > p {
+        font-size: 100pt;
+        top: 0;
+        width: 50%;
+        position: absolute;
+        height: 100%;
+        margin: 0 40px;
+        font-family: "Lilita One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        padding: 80px 40px;
+        line-height: 0.9em;
+        background-color: rgba(255, 231, 32, 0.86);
+        color: #d75050;
+        position: relative;
+        z-index: 10;
+    }
+
+    > p > em {
+        display: block;
+        font-size: 50pt;
+        margin-top: 80px;
+        text-align: right;
+        font-style: normal;
+    }
+    
+    .block-image > img {
+        transform: scale(1.2) translate(100px, 0px);
+    }
+}

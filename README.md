@@ -109,8 +109,6 @@ Kill your ego. Remove that part of the explanation that is not so important. Alt
 
 This watch has been created by **[FreakishClock](https://www.sabrinafossi.com/)**, an Italian design firm based in Florence. Notice how even a concept as extraordinarily familiar as **a clock can be stylized** down to its essence **without losing effectiveness**. It eliminates the superfluous, increases the signal-to-noise ratio. You will be **understood** more easily, they will **remember** it better, and you will explain it in **less time**.
 
-**Garr Reynolds** put this in relation with the asian **Zen** tradition.
-
 Kill your ego. Delete what doesn't matter. Ask yourself, **and what?** on each slide. **Focus on core ideas**, remove the rest. Leave them as **additional resources**.
 
 And, among everything else, keep your **explanations short**.
@@ -202,15 +200,28 @@ And, please, use a **good microphone**.
 
 :::
 
-[](#visual-contact,.coverbg)
+[](#body-language,.coverbg)
 
-![]()
+## Keep using your body lan-guage
+
+![Man in Brown Button Up Shirt, by Andrea Piacquadio, https://www.pexels.com/photo/man-in-brown-button-up-shirt-3789888/](https://images.pexels.com/photos/3789888/pexels-photo-3789888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ::: Notes
 
-**********************************************
-visual contact
-lighting
+(Whiteboarding this explanation can be extremely useful)
+
+Even if you are behind a camera, it is very important to maintain **eye contact** and have a general awareness of your own **body language**. You don't need to resort to clichés like many YouTubers, but there's a reason why they express themselves in such an exaggerated way: **audio is only part of the signal** that helps us understand the message.
+
+**Use your hands** to emphasize important aspects of the explanation, **smile**, and raise your **eyebrows** if you are asking a question.
+
+If the training is being delivered remotely, **proper lighting** is much more important than camera quality. Ideally, use a **wide source of natural light** (for example, sunlight reflected off the wall in front of the desk). However, this will not work in the late afternoon or evening.
+
+The most important consideration here is to **avoid having the most powerful light source behind** or directly above you. This will make it impossible to see your features, or it will create unnatural shadows and highlights on your face.
+
+If you don't wear glasses, a **ring light** on top of your secondary monitor may be sufficient, although most of them are not powerful enough (and the larger ones may cause discomfort).
+
+It's better to use two different **light sources, one on each side**, like in the photograph of the man. This will create natural shadows and avoid annoying reflections.
+
 :::
 
 [](#make-great-slides,.coverbg)
@@ -335,197 +346,18 @@ For a short introduction to this exciting option, check the [What is a flipped c
 
 :::
 
-[]()
+[](#conclusions,.coverbg.quote)
 
-[]()
+## Conclusions
 
-##
+![Thoughtful female freelancer watching laptop in light room at home, by Vlada Karpovich, https://www.pexels.com/photo/thoughtful-female-freelancer-watching-laptop-in-light-room-at-home-4050437/](https://images.pexels.com/photos/4050437/pexels-photo-4050437.jpeg?auto=compress)
 
-![]()
+"Education is not the filling of a pail, but the lighting of a fire." *- William Butler Yeats*
 
 ::: Notes
 
+The sentence is usually attributed to the 20th-century poet William Butler Yeats, although there is no clear evidence that he said it. However, it reflects a profound shift in perspective regarding how we should deliver education: instead of considering ourselves as rock stars, we should always place the student at the center of everything. We need to engage them with the benefits they will reap from the topics we cover, help them explore these ideas, and inspire passion in them the same way we are passionate. Because we cannot write in their brains: understanding is a process they must undertake themselves, and we are here only to guide them through an effective path to achieve it.
+
+You don't teach. They learn.
+
 :::
-
-
-*******************************************************************************************
-
-{{% slide id="how-to-design-slides" background-image="slide-carousel-blurred.jpg"%}}
-
-## Slides
-![proyector de slides](slide-carousel.jpg)
-
-{{% note %}}
-* Criaturas visuales
-* Complementar al orador
-* Tipografía que no distraiga
-* Incrementa la señal/ruído con contraste
-* No uses fondos que interactúen con el contenido
-* Azul con verde muerde
-* Ojo al daltonismo
-
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% slide id="composition" 
-background-image="nun-waiting-for-survivors.jpg"%}}
-
-<div class="message">
-<h2>Aprende fotografía</h2>
-</div>
-
-{{% note %}}
-* William Eugene Smith (1918-78), fotógrafo de guerra con amplia trayectoria en España
-* Monja esperando supervivientes del Andrea Doria (1956)
-* Composición
-
-Esta fotografía es increíble, puedes pasar el tiempo que quieras mirándola. Puedes centrarte en lo guapa que es la chica, en la vida que hay en esos ojos que atrean tu atención, en el gesto de su mano... después te cuentan que se llama "Monja esperando supervivientes del Andrea Doria" (un transanlántico italiano hundido tras chocar con otro barco similar) le da un significado completamente diferente al peluche que tiene en la mano.
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% /slide %}}
-*******************************************************************************************
-
-
-{{% slide id="good-enough" background-image="fallout-thumbs-up.jpg" %}}
-
-<div class="message">
-<h2>Lo vas a hacer bien</h2>
-</div>
-
-{{% note %}}
-* Céntrate en tu objetivo: qué quieres que se lleven
-* No se enseña, se aprende: somos facilitadores
-* Piensa en el ahora para reducir tus nervios, en tu objetivo
-* Usa la vista del presentador, no hay que memorizar
-
-Cuenta cuánto les respetas y cuánto te impone dar esta charla. Diles que enfocándote en enseñar unos pocos trucos eliminas esos nervios.
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% slide id="cognitive-load" 
-background-image="brain-overload.jpg" %}}
-
-<div class="message">
-<h2>Carga cognitiva</h2>
-</div>
-
-{{% note %}}
-* John Sweller
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="keep-attention" background-image="bolts.jpg" %}}
-
-## Mantén la atención
-
-{{% note %}}
-* Hilo conductor emocional
-* Añade caras humanas a las slides
-* Usa la pizarra
-* No te escondas
-* Provoca (pintando sobre la mesas)
-* Muévete
-* Contacto visual y lenguaje corporal
-* Usa el humor pero que sea natural
-
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% slide id="use-the-voice"  background-image="benne-gesserit.jpg" %}}
-
-<div class="message">
-<h2>Modula la voz</h2>
-</div>
-
-{{% note %}}
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="empathy" 
-background-image="empathy-children.jpg" %}}
-
-<div class="message">
-<h2>Empatiza</h2>
-</div>
-
-{{% note %}}
-* La desconfianza es un firewall
-* Usa las emociones para atravesarlo
-* No te enfrentes directamente a creencias
-* Intenta acompañar, no manipular
-* La razón es más potente para fijar a largo plazo
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="feedback" background-image="batman-beaten.jpg" %}}
-
-## Feedback
-
-{{% note %}}
-* Revisa la grabación
-* Elimina los ticks y latiguillos
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="stutterer" background-image="audiowave.jpg" %}}
-
-<div class="message">
-<a href="devil-woman.mp3">Devil Woman</a>, por Walter "Bruno"
-</div>
-
-
-{{% note %}}
-* https://www.youtube.com/watch?v=nDXkd2NyCCE&start_radio=1&list=RDnDXkd2NyCCE
-
-Walter nació en Alemania en 1955. Aunque era un niño bastante guapo le costaba relacionarse con los demas debido a que tenía problemas de tartamudez a raíz de la separación de sus padres. 
-
-"Casi no podía hablar. Me tomaba tres minutos completar una sola oración. Era algo abrumador para alguien que quería expresarse ante los demás y que quería ser escuchado pero que simplemente no podía. Era espantoso.".
-
-Sin embargo a Walter (a quien todo el mundo conocía como "Bruno") amaba el blues, la música preferida de su padre. Quería cantar en su propia banda y para ello tenía que vencer su problema de comunicación así que se enfrentó directamente a él apuntándose a clases de teatro. Este es el resultado (play the music).
-
-Claro que al final resultó que actuar estaba mejor pagado que la música, sobre todo cuando lo intentó en el cine y la televisión.
-
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-
-{{% slide id="bruce-willis" 
-background-image="bruce-willis-2.jpg" %}}
-
-{{% note %}}
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="give-away-pdf"  background-image="presents.jpg" %}}
-
-<div class="message">
-<a href="keypoints.pdf">cpsd.es/100-trucos</a>
-</div>
-
-{{% note %}}
-* Úsalo para marketing
-{{% /note %}}
-
-{{% /slide %}}
-*******************************************************************************************
-{{% slide id="final-slide"  background-image="applause-final-slide.jpg" %}}
-
-{{% note %}}
-{{% /note %}}
-
-{{% /slide %}}
