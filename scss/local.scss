@@ -1,4 +1,10 @@
-.slidedeck .title > h1 {
+.slidedeck.speaker section.active div.slide-notes {
+	font-size: 60pt;
+}
+
+.slidedeck {
+
+.title > h1 {
     top: 300px;
     font-size : 96pt;
 }
@@ -282,3 +288,59 @@
         transform: scale(1.2) translate(100px, 0px);
     }
 }
+
+
+}
+
+
+
+
+
+
+
+.slidedeck-book {
+
+    font-size: 32pt;
+    max-width: 90%;
+    margin: auto;
+    font-family: arial;
+    line-height: 1.5em;
+
+    h1 {
+        font-size: 100pt;
+        width: 30pt;
+        float: left;
+        margin: 0 0 1em 0;
+        line-height: 1em;
+    }
+
+	h2 {
+		border-bottom: 1px solid silver;
+	}
+
+	section {
+        page-break-inside: avoid;
+		clear: both;
+		margin: 2em 2em;
+	}
+	
+	.block-image img {
+		max-width: 40%;
+		display: block;
+		width: 40%;
+		float: right;
+		margin-bottom: 1em;
+        max-height: 1100px;
+        object-fit: cover;
+	}
+
+	.slide-notes {
+		margin-right: 40px;
+		max-width: 50%;
+	}
+
+    #make-them-team-up ul {
+        display: none;
+    }
+}
+

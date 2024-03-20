@@ -8,5 +8,5 @@
         "iframeProcessor"
     ],
     "script": "",
-    "liveReload" : true
+    "liveReload" : false
 }

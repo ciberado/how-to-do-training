@@ -1,15 +1,17 @@
 [](#title,coverbg)
 
-![Thoughtful female freelancer watching laptop in light room at home, by Vlada Karpovich, https://www.pexels.com/photo/thoughtful-female-freelancer-watching-laptop-in-light-room-at-home-4050437/](https://images.pexels.com/photos/4050437/pexels-photo-4050437.jpeg?auto=compress)
 
 # Effective online training
 
 
+![Thoughtful female freelancer watching laptop in light room at home, by Vlada Karpovich, https://www.pexels.com/photo/thoughtful-female-freelancer-watching-laptop-in-light-room-at-home-4050437/](https://images.pexels.com/photos/4050437/pexels-photo-4050437.jpeg?auto=compress)
+
 [](#why-do-we-teach,.coverbg)
+
+## Why do we teach?
 
 ![Portrait Photo of Woman in Red Top Wearing Black Framed Eyeglasses Standing In Front of White Background Thinking, by Andrea Piacquadio, https://www.pexels.com/photo/portrait-photo-of-woman-in-red-top-wearing-black-framed-eyeglasses-standing-in-front-of-white-background-thinking-3762807/](https://images.pexels.com/photos/3762807/pexels-photo-3762807.jpeg)
 
-## Why do we teach?
 
 ::: Notes
 
@@ -73,6 +75,18 @@ called our computers.
 
 ![A Man Thinking while Taking Exam, by Andy Barbour, https://www.pexels.com/photo/a-man-thinking-while-taking-exam-6683989/](https://images.pexels.com/photos/6683989/pexels-photo-6683989.jpeg)
 
+::: Notes
+
+Even although every **knowledge is already available** on the web for free, Learning still requires a lot of **discipline** and locking blocks of **time**. And, at least for now, Youtube will not **resolve doubts** or **customize an explanation** for a particular person.
+
+We are also **gregarious creatures**. It is fun to share an experience, to interact with other humans with similar goals.
+
+That is why people attended to courses instead of reading books. That is why people attend to our classes instead of subscribing to a canned web course.
+
+Let's see how can we be more **fun**, **interesting** and **engaging**. But, at the same, time, more **effective** delivering our content.
+
+:::
+
 [](#set-realistic-goals,.coverbg)
 
 ## Set realistic goals
@@ -86,15 +100,6 @@ We don't expect children to be able to paint photorealistic portraits, but somet
 So take it easy. **Simplify** everything. **Limit the scope**. And point them to **additional resources** if you consider they can take advantage of them.
 
 Kill your ego. Remove that part of the explanation that is not so important. Although I must confess that I'm not always able to do it.
-
-* Students, not us, are the **stars of the show**.
-* They **will not remember** it all.
-* They **don't need to become experts** right now.
-* All the **knowledge is already in the web**, for free.
-* Synchronous training is **like attending to the gym**, a social ritual.
-* It is a **more effective** way of learning.
-* We love **hearing stories**
-* We want to be **part of a great experience**.
 
 :::
 
@@ -287,7 +292,7 @@ Laziness is a way of **preserving energy**. We fall in that state easily, with g
 
 Put people to work. **Active work**. And make it **fun**.
 
-[https://quizizz.com/] is a very nice way of **running tests**. Attendants will love it, and it will help to exercise **[spacing retrieval](https://www.nature.com/articles/s44159-022-00089-1)**, probably the most effective learning technique of all.
+[quizizz.com](https://quizizz.com/) is a very nice way of **running tests**. Attendants will love it, and it will help to exercise **[spacing retrieval](https://www.nature.com/articles/s44159-022-00089-1)**, probably the most effective learning technique of all.
 
 :::
 
@@ -356,7 +361,7 @@ For a short introduction to this exciting option, check the [What is a flipped c
 
 ::: Notes
 
-The sentence is usually attributed to the 20th-century poet William Butler Yeats, although there is no clear evidence that he said it. However, it reflects a profound shift in perspective regarding how we should deliver education: instead of considering ourselves as rock stars, we should always place the student at the center of everything. We need to engage them with the benefits they will reap from the topics we cover, help them explore these ideas, and inspire passion in them the same way we are passionate. Because we cannot write in their brains: understanding is a process they must undertake themselves, and we are here only to guide them through an effective path to achieve it.
+The sentence is usually attributed to the 20th-century poet **William Butler Yeats**, although there is no clear evidence that he said it. However, it reflects a profound **shift in perspective** regarding how we should deliver education: instead of considering ourselves as rock stars, we should always **place the student at the center** of everything. We need to engage them with the benefits they will reap from the topics we cover, help them explore these ideas, and **inspire** passion in them the same way we are passionate. Because we cannot write in their brains: understanding is a process they must undertake themselves, and we are here only to **guide** them through an **effective path** to achieve it.
 
 You don't teach. They learn.
 

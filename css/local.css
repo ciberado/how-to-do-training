@@ -1,8 +1,11 @@
+.slidedeck.speaker section.active div.slide-notes {
+  font-size: 60pt; }
+
 .slidedeck .title > h1 {
   top: 300px;
   font-size: 96pt; }
 
-#title > h1 {
+.slidedeck #title > h1 {
   font-size: 170pt;
   top: 0;
   width: 50%;
@@ -10,27 +13,27 @@
   height: 100%;
   margin: 0 40px; }
 
-#title .block-image > img {
+.slidedeck #title .block-image > img {
   transform: scale(1.2) translate(100px, 0px); }
 
-#why-do-we-teach h2 {
+.slidedeck #why-do-we-teach h2 {
   top: 0;
   position: absolute;
   width: 40%;
   font-size: 180pt; }
 
-#why-do-we-teach .block-image > img {
+.slidedeck #why-do-we-teach .block-image > img {
   transform: scale(1.3) translateX(200px); }
 
-#why-do-students-attend h2 {
+.slidedeck #why-do-students-attend h2 {
   font-size: 160pt;
   width: 45%;
   float: right; }
 
-#why-do-students-attend .block-image > img {
+.slidedeck #why-do-students-attend .block-image > img {
   transform: scale(1.3) translatex(-200px); }
 
-#set-realistic-goals > h2 {
+.slidedeck #set-realistic-goals > h2 {
   position: absolute;
   right: 0;
   bottom: 0;
@@ -38,44 +41,44 @@
   font-size: 140pt;
   text-align: center; }
 
-#simplify > h2 {
+.slidedeck #simplify > h2 {
   font-size: 150pt;
   right: 0;
   position: absolute;
   bottom: 350px; }
 
-#simplify .block-image > img {
+.slidedeck #simplify .block-image > img {
   width: unset; }
 
-#make-it-social > h2 {
+.slidedeck #make-it-social > h2 {
   font-size: 180pt;
   width: 40%;
   /* text-align: center; */ }
 
-#make-it-social > .block-image > img {
+.slidedeck #make-it-social > .block-image > img {
   object-fit: contain;
   transform: scale(2.7) translateY(200px); }
 
-#make-them-team-up > h2 {
+.slidedeck #make-them-team-up > h2 {
   position: absolute;
   font-size: 130pt;
   width: 800px;
   left: 300px; }
 
-#make-them-team-up > ul {
+.slidedeck #make-them-team-up > ul {
   height: 100%;
   position: absolute;
   top: 0;
   margin: 0; }
-  #make-them-team-up > ul li {
+  .slidedeck #make-them-team-up > ul li {
     margin: 0; }
-    #make-them-team-up > ul li img {
+    .slidedeck #make-them-team-up > ul li img {
       max-height: unset; }
-  #make-them-team-up > ul li:nth-child(even) {
+  .slidedeck #make-them-team-up > ul li:nth-child(even) {
     position: relative;
     top: 370px; }
 
-#make-them-autonomous > h2 {
+.slidedeck #make-them-autonomous > h2 {
   font-size: 150pt;
   width: 70%;
   bottom: 0;
@@ -83,97 +86,97 @@
   position: absolute;
   text-align: center; }
 
-#become-a-storyteller > h2 {
+.slidedeck #become-a-storyteller > h2 {
   width: 55%;
   font-size: 160pt;
   position: absolute;
   top: 430px; }
 
-#use-your-voice > h2 {
+.slidedeck #use-your-voice > h2 {
   font-size: 150pt;
   position: absolute;
   width: 700px;
   right: 0;
   bottom: 0; }
 
-#use-a-whiteboard > h2 {
+.slidedeck #use-a-whiteboard > h2 {
   position: absolute;
   font-size: 130pt;
   right: 0;
   width: 920px;
   top: 100px; }
 
-#use-a-whiteboard > .block-image > img {
+.slidedeck #use-a-whiteboard > .block-image > img {
   transform: scale(1.4) translate3d(-150px, 0, 0); }
 
-#dont-tell-show > h2 {
+.slidedeck #dont-tell-show > h2 {
   font-size: 150pt;
   position: absolute;
   width: 700px;
   text-align: right; }
 
-#dont-tell-show > .block-image > img {
+.slidedeck #dont-tell-show > .block-image > img {
   transform: scale(3) translate3d(0px, 300px, 0);
   object-fit: contain; }
 
-#flipped-classroom > h2 {
+.slidedeck #flipped-classroom > h2 {
   position: absolute;
   font-size: 120pt;
   width: 35%;
   /* margin: 20px; */
   text-align: center; }
 
-#flipped-classroom > .block-image > img {
+.slidedeck #flipped-classroom > .block-image > img {
   transform: scale(-1, -1); }
 
-#fear > h2 {
+.slidedeck #fear > h2 {
   position: absolute;
   font-size: 170pt;
   right: 80px;
   top: 100px; }
 
-#fear > .block-image > img {
+.slidedeck #fear > .block-image > img {
   transform: scale(1.4) translate3d(100px, 100px, 100px); }
 
-#gluttony > h2 {
+.slidedeck #gluttony > h2 {
   position: absolute;
   font-size: 160pt;
   top: 500px; }
 
-#gluttony > .block-image > img {
+.slidedeck #gluttony > .block-image > img {
   transform: scale(1.3); }
 
-#mating > h2 {
+.slidedeck #mating > h2 {
   position: absolute;
   font-size: 150pt;
   top: 180px; }
 
-#mating .block-image > img {
+.slidedeck #mating .block-image > img {
   object-fit: contain;
   transform: scale(2.5) translate3d(400px, 200px, 0px); }
 
-#make-great-slides > h2 {
+.slidedeck #make-great-slides > h2 {
   position: absolute;
   font-size: 140pt;
   width: 30%;
   left: 200px;
   top: 100px; }
 
-#make-great-slides .block-image > img {
+.slidedeck #make-great-slides .block-image > img {
   object-fit: contain;
   transform: rotate(45deg) scale(1.5); }
 
-#body-language h2 {
+.slidedeck #body-language h2 {
   position: absolute;
   font-size: 120pt;
   width: 30%;
   right: 0;
   text-align: right; }
 
-#conclusions > h2 {
+.slidedeck #conclusions > h2 {
   display: none; }
 
-#conclusions > p {
+.slidedeck #conclusions > p {
   font-size: 100pt;
   top: 0;
   width: 50%;
@@ -190,12 +193,44 @@
   position: relative;
   z-index: 10; }
 
-#conclusions > p > em {
+.slidedeck #conclusions > p > em {
   display: block;
   font-size: 50pt;
   margin-top: 80px;
   text-align: right;
   font-style: normal; }
 
-#conclusions .block-image > img {
+.slidedeck #conclusions .block-image > img {
   transform: scale(1.2) translate(100px, 0px); }
+
+.slidedeck-book {
+  font-size: 32pt;
+  max-width: 90%;
+  margin: auto;
+  font-family: arial;
+  line-height: 1.5em; }
+  .slidedeck-book h1 {
+    font-size: 100pt;
+    width: 30pt;
+    float: left;
+    margin: 0 0 1em 0;
+    line-height: 1em; }
+  .slidedeck-book h2 {
+    border-bottom: 1px solid silver; }
+  .slidedeck-book section {
+    page-break-inside: avoid;
+    clear: both;
+    margin: 2em 2em; }
+  .slidedeck-book .block-image img {
+    max-width: 40%;
+    display: block;
+    width: 40%;
+    float: right;
+    margin-bottom: 1em;
+    max-height: 1100px;
+    object-fit: cover; }
+  .slidedeck-book .slide-notes {
+    margin-right: 40px;
+    max-width: 50%; }
+  .slidedeck-book #make-them-team-up ul {
+    display: none; }
